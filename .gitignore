@@ -1,0 +1,29 @@
+# Python general
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# Secret API Keys
+.env
+*.env
+
+# Streamlit config
+.streamlit/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Cache files for ML models
+.cache/
+*.pt
+*.bin
