@@ -1,4 +1,5 @@
-🚀 Autonomous Market Intelligence & Content Agent
+# 🚀 Autonomous Market Intelligence & Content Agent
+
 This project is an autonomous multi-agent system built with CrewAI, LangChain, and Mistral AI. It deploys a team of specialized AI agents to perform end-to-end market research, audience sentiment analysis, and full content creation based on a single topic.
 
 The system is delivered through an interactive Streamlit dashboard where a user can input a topic, and the AI agents will research, analyze, and write a complete article, presenting the final content alongside data visualizations like sentiment charts and word clouds.
